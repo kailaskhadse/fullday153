@@ -1,0 +1,9 @@
+welcome to git hub
+<<<<<<< Updated upstream
+bug 2 
+fixed this bug firstly
+=======
+bug 1
+solve 
+work in progress
+>>>>>>> Stashed changes
