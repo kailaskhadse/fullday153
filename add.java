@@ -1,10 +1,10 @@
-public class A
+public class ABC
 {
-	public static void main(String s[])
+	public static void main(String args[])
 	{
 		int a=10;
 		int b=20;
 		int c= a+b;
-		system.out.println(c);
+		system.out.println("Addition"+c);
 	}
 }
