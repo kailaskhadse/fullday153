@@ -1,1 +1,3 @@
 welcome to git hub
+bug 2 
+fixed this bug firstly
